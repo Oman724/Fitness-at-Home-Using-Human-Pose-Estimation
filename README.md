@@ -54,9 +54,7 @@ Matplotlib
 
 ![Image](https://github.com/user-attachments/assets/aecc8c81-0870-415f-927d-bc58c075cddb)
 
-# Project Demo Video: <br>
 
-https://drive.google.com/file/d/1E2uDSOknbZ7S5-qeOxI2ds10ZYonhD0Z/view?usp=drive_link
 
 # Installation
 
